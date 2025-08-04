@@ -28,7 +28,3 @@ watching for changes in client source files. It recompiles the client upon any c
 ```
 cd server/node_modules/geoip-lite && npm run-script updatedb license_key=YOUR_LICENSE_KEY
 ```
-
-## License
-
-  **GPL-V3.0**
